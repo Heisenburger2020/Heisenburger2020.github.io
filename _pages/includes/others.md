@@ -26,7 +26,7 @@
 # 🏆 Selected Awards
 - DataFountain Few-Shot Classification Challenge — **6/468 (A board), 5/108 (B board)**.
 - Alibaba Cloud Tianchi Heartbeat-Signal Detection Competition — **8th place**.
-- **First Prize**, Chinese Physics Olympiad (National High School).
+- **First Prize**, Chinese Physics Olympiad (High School).
 
 
 # 🛠️ Skills
