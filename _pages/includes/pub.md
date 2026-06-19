@@ -3,6 +3,7 @@
 \* denotes equal contribution.
 
 ## 🤖 LLM Agents & Code Intelligence
+- [DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch](https://arxiv.org/abs/2606.10728). **Jiale Zhao\***, Guoxin Chen\*, Fanzhe Meng, ..., Kai Jia.
 - [Immersion in the GitHub Universe: Scaling Coding Agents to Mastery](https://arxiv.org/abs/2602.09892). **Jiale Zhao\***, Guoxin Chen\*, Fanzhe Meng\*, ..., Kai Jia.
 - [BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194). Guoxin Chen\*, Fanzhe Meng\*, **Jiale Zhao\***, ..., Kai Jia.
 

@@ -4,7 +4,8 @@
 
 
 # 💻 Experience
-- *2025.10 - present*: Research Intern at **BandAI, ByteDance** — Code Agent.
+- *2026.6 - present*: Research Intern at **Seed-LLM, ByteDance** — Code Agent.
+- *2025.10 - 2026.6*: Research Intern at **BandAI, ByteDance** — Code Agent.
   <!-- Scaling SWE datasets and building a code-agent benchmark. Built **Scale-SWE** (10k+ downloads on Hugging Face); distilling DeepSeek-3.2 reached **64% on SWE-bench-Verified**, surpassing concurrent GLM-4.7-Flash (59.2%). Built **BeyondSWE**, a search + code-agent benchmark that also covers doc2repo evaluation, plus long-horizon SWE task data. -->
 
 - *2025.07 - 2025.10*: Research Intern at **Seed AI Search, ByteDance** — AI search.
