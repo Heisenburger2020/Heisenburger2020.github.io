@@ -4,6 +4,6 @@ I am a Ph.D. student at the **Institute of Computing Technology, University of C
 
 My research sits at the intersection of **large language models** and **AI for Science**. Concretely, I work on:
 
-- **Agent**: Code Agent.
+- **Agent**: Long-Horizon Code Agent.
 - **AI for Science**: proteomics / physics.
 
