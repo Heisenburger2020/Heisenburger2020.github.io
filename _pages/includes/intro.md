@@ -7,3 +7,6 @@ My research sits at the intersection of **large language models** and **AI for S
 - **Agent**: Long-Horizon Code Agent.
 - **AI for Science**: proteomics / physics.
 
+
+<span style="color:red">**I am actively seeking industry opportunities in LLM research.**</span>
+Feel free to reach out via WeChat: **JL_Zhao2000**.
