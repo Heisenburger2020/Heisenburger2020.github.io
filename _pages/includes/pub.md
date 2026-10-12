@@ -5,6 +5,7 @@
 ## 🤖 LLM Agents & Code Intelligence
 - [DeNovoSWE: Scaling Long-Horizon Environments for Generating Entire Repositories from Scratch](https://arxiv.org/abs/2606.10728). **Jiale Zhao\***, Guoxin Chen\*, Fanzhe Meng, ..., Kai Jia.
 - `EMNLP Findings` [Immersion in the GitHub Universe: Scaling Coding Agents to Mastery](https://arxiv.org/abs/2602.09892). **Jiale Zhao\***, Guoxin Chen\*, Fanzhe Meng\*, ..., Kai Jia.
+  - **Impact.** **Scale-SWE** has reached **30K+ total downloads on Hugging Face** and has been used by [Qwen](https://arxiv.org/pdf/2606.24597), [Microsoft Research](https://arxiv.org/pdf/2605.15040), [MiMo v2.6](https://arxiv.org/pdf/2610.11959), [Amazon](https://arxiv.org/pdf/2609.29421), [Shanghai AI Lab](https://arxiv.org/pdf/2608.13505), [ByteDance](https://arxiv.org/pdf/2607.18213), and LongCat. I sincerely thank these teams for using Scale-SWE in their work.
 - [BeyondSWE: Can Current Code Agent Survive Beyond Single-Repo Bug Fixing?](https://arxiv.org/abs/2603.03194). Guoxin Chen\*, Fanzhe Meng\*, **Jiale Zhao\***, ..., Kai Jia.
 
 ## 🧬 AI for Science
